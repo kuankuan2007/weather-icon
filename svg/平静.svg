@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 357.74 224.04">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_未命名的渐变_110);
+      }
+
+      .cls-2 {
+        fill: url(#_未命名的渐变_129-2);
+      }
+
+      .cls-3 {
+        fill: url(#_未命名的渐变_129-4);
+      }
+
+      .cls-4 {
+        fill: url(#_未命名的渐变_129-3);
+      }
+
+      .cls-5 {
+        fill: url(#_未命名的渐变_129);
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_110" data-name="未命名的渐变 110" x1="85.81" y1="301.47" x2="269.29" y2="117.99" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="green"/>
+      <stop offset="1" stop-color="#004000"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_129" data-name="未命名的渐变 129" x1="175.61" y1="172.53" x2="54.58" y2="51.51" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#969696"/>
+      <stop offset="1" stop-color="#e6e6e6"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_129-2" data-name="未命名的渐变 129" x1="333.61" y1="139.43" x2="278.79" y2="84.61" xlink:href="#_未命名的渐变_129"/>
+    <linearGradient id="_未命名的渐变_129-3" data-name="未命名的渐变 129" x1="80.28" y1="43.05" x2="22.81" y2="-14.42" xlink:href="#_未命名的渐变_129"/>
+    <linearGradient id="_未命名的渐变_129-4" data-name="未命名的渐变 129" x1="303.15" y1="74.83" x2="182.12" y2="-46.2" xlink:href="#_未命名的渐变_129"/>
+  </defs>
+  <rect class="cls-1" x="0" y="195.42" width="355.1" height="28.63" rx="14.31" ry="14.31"/>
+  <g>
+    <rect class="cls-5" x="0" y="97.71" width="230.19" height="28.63" rx="14.31" ry="14.31"/>
+    <rect class="cls-2" x="257.3" y="97.71" width="97.79" height="28.63" rx="14.31" ry="14.31"/>
+    <rect class="cls-4" x="0" y="0" width="103.08" height="28.63" rx="14.31" ry="14.31"/>
+    <rect class="cls-3" x="127.53" y="0" width="230.22" height="28.63" rx="14.31" ry="14.31"/>
+  </g>
+</svg>

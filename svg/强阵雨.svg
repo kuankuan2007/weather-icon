@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 387.31 421.38">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_未命名的渐变_630-2);
+      }
+
+      .cls-2 {
+        fill: url(#_未命名的渐变_207-9);
+      }
+
+      .cls-3 {
+        fill: url(#_未命名的渐变_207-5);
+      }
+
+      .cls-4 {
+        fill: url(#_未命名的渐变_207);
+      }
+
+      .cls-5 {
+        fill: url(#_未命名的渐变_630);
+      }
+
+      .cls-6 {
+        fill: url(#_未命名的渐变_207-3);
+      }
+
+      .cls-7 {
+        fill: url(#_未命名的渐变_207-4);
+      }
+
+      .cls-8 {
+        fill: url(#_未命名的渐变_207-6);
+      }
+
+      .cls-9 {
+        fill: url(#_未命名的渐变_207-7);
+      }
+
+      .cls-10 {
+        fill: url(#_未命名的渐变_207-2);
+      }
+
+      .cls-11 {
+        fill: url(#_未命名的渐变_277);
+      }
+
+      .cls-12 {
+        fill: url(#_未命名的渐变_207-8);
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_277" data-name="未命名的渐变 277" x1="121.1" y1="150.65" x2="40.36" y2="10.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f70"/>
+      <stop offset="1" stop-color="#ddff09"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_630" data-name="未命名的渐变 630" x1="327.68" y1="147.99" x2="198.71" y2="19.01" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#969696"/>
+      <stop offset=".6" stop-color="#cecece"/>
+      <stop offset="1" stop-color="#f0f0f0"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_630-2" data-name="未命名的渐变 630" x1="313.99" y1="248.75" x2="122.5" y2="57.25" xlink:href="#_未命名的渐变_630"/>
+    <linearGradient id="_未命名的渐变_207" data-name="未命名的渐变 207" x1="223.07" y1="335.82" x2="180.9" y2="321.27" gradientTransform="translate(-8.33 96.32) scale(1 .76)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c0c4ff"/>
+      <stop offset=".96" stop-color="#e0e2ff"/>
+      <stop offset=".96" stop-color="#cae4ff"/>
+      <stop offset=".99" stop-color="#76eeff"/>
+      <stop offset="1" stop-color="#55f3ff"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_207-2" data-name="未命名的渐变 207" x1="304.96" y1="215.13" x2="262.79" y2="200.58" gradientTransform="translate(12.97 121.22) scale(1 .76)" xlink:href="#_未命名的渐变_207"/>
+    <linearGradient id="_未命名的渐变_207-3" data-name="未命名的渐变 207" x1="254.79" y1="221.91" x2="212.62" y2="207.36" gradientTransform="translate(13.39 107.78) scale(1 .76)" xlink:href="#_未命名的渐变_207"/>
+    <linearGradient id="_未命名的渐变_207-4" data-name="未命名的渐变 207" x1="151.18" y1="407.27" x2="109.01" y2="392.72" gradientTransform="translate(-20.11 75.39) scale(1 .76)" xlink:href="#_未命名的渐变_207"/>
+    <linearGradient id="_未命名的渐变_207-5" data-name="未命名的渐变 207" x1="287.17" y1="348.46" x2="245" y2="333.92" gradientTransform="translate(-13.14 112.92) scale(1 .76)" xlink:href="#_未命名的渐变_207"/>
+    <linearGradient id="_未命名的渐变_207-6" data-name="未命名的渐变 207" x1="133.52" y1="284.65" x2="91.36" y2="270.1" gradientTransform="translate(5.12 74.03) scale(1 .76)" xlink:href="#_未命名的渐变_207"/>
+    <linearGradient id="_未命名的渐变_207-7" data-name="未命名的渐变 207" x1="182.5" y1="248.01" x2="140.33" y2="233.47" gradientTransform="translate(10.73 87.96) scale(1 .76)" xlink:href="#_未命名的渐变_207"/>
+    <linearGradient id="_未命名的渐变_207-8" data-name="未命名的渐变 207" x1="97.54" y1="335.82" x2="55.38" y2="321.27" gradientTransform="translate(-3.87 63.14) scale(1 .76)" xlink:href="#_未命名的渐变_207"/>
+    <linearGradient id="_未命名的渐变_207-9" data-name="未命名的渐变 207" x1="343.21" y1="272.72" x2="301.05" y2="258.17" gradientTransform="translate(.06 129.77) scale(1 .76)" xlink:href="#_未命名的渐变_207"/>
+  </defs>
+  <circle class="cls-11" cx="80.73" cy="80.73" r="80.73"/>
+  <g>
+    <path class="cls-5" d="M337.98,104.89c0,7.84-.97,15.47-2.8,22.74,0,.02-.01,.05-.02,.08-.53,2.58-1.61,7-3.92,12.05-2.49,5.48-6.4,11.68-12.59,17.11-9.03,7.93-19.26,11.01-27.76,12.04-6.69,.81-12.3,.35-15.37,0-.61-.08-1.11-.14-1.51-.19-7.31-.96-14.34-3.37-20.89-7.01-16.76-9.31-30.33-26.62-37.34-48.13-5.36-20.28-19.15-33.2-20.86-34.72-2.89-2.56-15.39-12.67-33.51-15.93,15.34-30.43,46.89-51.3,83.3-51.3,43.33,0,79.75,29.54,90.23,69.59,1.99,7.56,3.04,15.49,3.04,23.67Z"/>
+    <path class="cls-1" d="M387.31,147.3c0,37.49-30.38,67.86-67.86,67.86H100.94c-31.2,0-56.49-25.29-56.49-56.48,0-26.49,18.25-48.73,42.86-54.81,10.16-24.64,34.42-41.98,62.74-41.98,3.99,0,7.79,.38,11.36,1.03,18.12,3.26,30.62,13.36,33.51,15.93,1.71,1.52,15.5,14.44,20.86,34.72,7.01,21.52,20.58,38.83,37.34,48.13,6.55,3.64,13.58,6.05,20.89,7.01,.4,.06,.9,.11,1.51,.19,3.06,.35,8.68,.81,15.37,0,8.49-1.03,18.73-4.1,27.76-12.04,6.19-5.43,10.1-11.64,12.59-17.11,2.31-5.05,3.4-9.47,3.92-12.05,.01-.03,.02-.06,.02-.08,1.83-7.27,2.8-14.9,2.8-22.74s-1.05-16.11-3.04-23.67c30.02,7,52.37,33.93,52.37,66.08Z"/>
+  </g>
+  <g>
+    <rect class="cls-4" x="187.91" y="301.93" width="11.5" height="87.5" rx="5.75" ry="5.75" transform="translate(98.25 -38.89) rotate(15.33)"/>
+    <rect class="cls-10" x="291.09" y="235.23" width="11.5" height="87.5" rx="5.75" ry="5.75" transform="translate(84.29 -68.54) rotate(15.33)"/>
+    <rect class="cls-6" x="241.35" y="226.93" width="11.5" height="87.5" rx="5.75" ry="5.75" transform="translate(80.33 -55.69) rotate(15.33)"/>
+    <rect class="cls-7" x="104.24" y="335.23" width="11.5" height="87.5" rx="5.75" ry="5.75" transform="translate(104.08 -15.59) rotate(15.33)"/>
+    <rect class="cls-3" x="247.19" y="328.13" width="11.5" height="87.5" rx="5.75" ry="5.75" transform="translate(107.29 -53.63) rotate(15.33)"/>
+    <rect class="cls-8" x="111.81" y="240.81" width="11.5" height="87.5" rx="5.75" ry="5.75" transform="translate(79.39 -20.95) rotate(15.33)"/>
+    <rect class="cls-9" x="166.39" y="226.93" width="11.5" height="87.5" rx="5.75" ry="5.75" transform="translate(77.67 -35.87) rotate(15.33)"/>
+    <rect class="cls-12" x="66.85" y="268.75" width="11.5" height="87.5" rx="5.75" ry="5.75" transform="translate(85.18 -8.07) rotate(15.33)"/>
+    <rect class="cls-2" x="316.44" y="287.5" width="11.5" height="87.5" rx="5.75" ry="5.75" transform="translate(99.01 -73.38) rotate(15.33)"/>
+  </g>
+</svg>
